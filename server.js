@@ -149,7 +149,7 @@
                                     url: PROXIES[proxyIdx]
                                 },
                                 hash: "#" + data[0],
-                                name: "discord.gg/ugNk5GDCja",
+                                name: "Red Bot",
                                 stats: [0, 0, 0, 0, 0, 0, 0, 9],
                                 type: "follow",
                                 token: "follow-8fe6ca",
